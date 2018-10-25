@@ -9,36 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1803921568627451,
-            "green": 0.6078431372549019,
-            "red": 0.9921568627450981
+            "blue": 0.7213807398,
+            "green": 0.7213807398,
+            "red": 0.7213807398
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Medium",
-              "size": 10
+              "name": "Rubik-Regular",
+              "size": 14
             }
           },
-          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 83,
         "location": 0
       }
     ],
-    "string": "EXPLORE"
+    "string": "Jadwal kegiatan pemilihan Ketua HI.. MAFI periode 2017/2018 adalah sebagai berikut…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "9493E95D-4F5D-4AB9-8C8A-5B2955902682",
+  "do_objectID": "342F9BA8-B4EF-49B7-9969-350C396F7E7D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7CED19F8-19D6-485E-B25D-B5B7DB0E6112",
+    "do_objectID": "BF2C73CB-6B8D-4568-9CB0-4F421AF1EA4D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3B215C05-B4B1-4B24-AF23-50C893DD5142",
-    "height": 12,
-    "width": 46,
-    "x": 22,
-    "y": 3
+    "do_objectID": "959C14C1-3B35-401C-8DF6-DE4B600AE27A",
+    "height": 19,
+    "width": 256.9999999999999,
+    "x": 55.99999999999999,
+    "y": 42
   },
-  "glyphBounds": "{{0, 1}, {45, 9}}",
+  "glyphBounds": "{{0, 2}, {256, 46}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,39 +63,39 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "EXPLORE",
+  "name": "Jadwal kegiatan pemi",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "05174E5F-91A3-44CD-93AE-C7D1245497A3",
+    "do_objectID": "B72432EB-F10C-4647-8C6A-9BEC45ACB135",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "44553D86-63AD-4C55-AD81-FC6DBEAF1FF6",
+      "do_objectID": "B7C4ACE9-64CB-428A-B36A-7457ABC10C6B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1803921568627451,
-          "green": 0.6078431372549019,
-          "red": 0.9921568627450981
+          "blue": 0.7213807398,
+          "green": 0.7213807398,
+          "red": 0.7213807398
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Medium",
-            "size": 10
+            "name": "Rubik-Regular",
+            "size": 14
           }
         },
-        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         }
       },
@@ -103,5 +103,17 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "travel",
+          "type": "body"
+        },
+        "title": "Travel"
+      }
+    }
+  }
 }

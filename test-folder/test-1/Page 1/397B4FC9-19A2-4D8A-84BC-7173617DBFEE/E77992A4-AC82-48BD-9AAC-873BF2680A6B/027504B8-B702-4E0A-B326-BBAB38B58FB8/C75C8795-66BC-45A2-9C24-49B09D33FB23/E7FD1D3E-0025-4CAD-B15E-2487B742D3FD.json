@@ -9,36 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1803921568627451,
-            "green": 0.6078431372549019,
-            "red": 0.9921568627450981
+            "blue": 0.7213807398,
+            "green": 0.7213807398,
+            "red": 0.7213807398
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Medium",
-              "size": 10
+              "name": "Rubik-Regular",
+              "size": 14
             }
           },
-          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 89,
         "location": 0
       }
     ],
-    "string": "EXPLORE"
+    "string": "Sadulur ulah hilap jadwal nonton ba.. reng minggu ieu Persib ngalawan MU. Persib nu aing…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "9493E95D-4F5D-4AB9-8C8A-5B2955902682",
+  "do_objectID": "E7FD1D3E-0025-4CAD-B15E-2487B742D3FD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7CED19F8-19D6-485E-B25D-B5B7DB0E6112",
+    "do_objectID": "24F76634-DA5A-4297-AAF9-EAB8832BE1AA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3B215C05-B4B1-4B24-AF23-50C893DD5142",
-    "height": 12,
-    "width": 46,
-    "x": 22,
-    "y": 3
+    "do_objectID": "354F2855-9513-49EC-A93E-F77E4B205C9D",
+    "height": 19,
+    "width": 259,
+    "x": 55.99999999999999,
+    "y": 41
   },
-  "glyphBounds": "{{0, 1}, {45, 9}}",
+  "glyphBounds": "{{0, 2}, {243, 49}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,39 +63,39 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "EXPLORE",
+  "name": "Sadulur ulah hilap j",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "05174E5F-91A3-44CD-93AE-C7D1245497A3",
+    "do_objectID": "A3B3F537-9B63-4AE7-86ED-C1A701E2B837",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "44553D86-63AD-4C55-AD81-FC6DBEAF1FF6",
+      "do_objectID": "E119AA88-012F-43D4-B9DB-3477677ECE99",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1803921568627451,
-          "green": 0.6078431372549019,
-          "red": 0.9921568627450981
+          "blue": 0.7213807398,
+          "green": 0.7213807398,
+          "red": 0.7213807398
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Medium",
-            "size": 10
+            "name": "Rubik-Regular",
+            "size": 14
           }
         },
-        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         }
       },
@@ -103,5 +103,17 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "travel",
+          "type": "body"
+        },
+        "title": "Travel"
+      }
+    }
+  }
 }

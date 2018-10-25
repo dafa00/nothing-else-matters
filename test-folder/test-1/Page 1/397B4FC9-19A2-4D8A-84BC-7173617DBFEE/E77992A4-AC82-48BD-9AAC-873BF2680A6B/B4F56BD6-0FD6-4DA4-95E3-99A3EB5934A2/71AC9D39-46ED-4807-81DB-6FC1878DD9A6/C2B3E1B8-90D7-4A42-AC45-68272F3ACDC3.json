@@ -9,36 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1803921568627451,
-            "green": 0.6078431372549019,
-            "red": 0.9921568627450981
+            "blue": 0.3058823529,
+            "green": 0.3058823529,
+            "red": 0.3058823529
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Medium",
-              "size": 10
+              "name": "Rubik-Regular",
+              "size": 14
             }
           },
-          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 34,
         "location": 0
       }
     ],
-    "string": "EXPLORE"
+    "string": "Pemilihan Ketua Himpunan Mahasis.."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "9493E95D-4F5D-4AB9-8C8A-5B2955902682",
+  "do_objectID": "C2B3E1B8-90D7-4A42-AC45-68272F3ACDC3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7CED19F8-19D6-485E-B25D-B5B7DB0E6112",
+    "do_objectID": "E622A889-1D21-4169-9F9C-A8E01D8E9BDB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3B215C05-B4B1-4B24-AF23-50C893DD5142",
-    "height": 12,
-    "width": 46,
-    "x": 22,
-    "y": 3
+    "do_objectID": "9BF1C667-DA71-4738-8839-2DABAB59BE36",
+    "height": 19,
+    "width": 273.9999999999999,
+    "x": 55.99999999999999,
+    "y": 23
   },
-  "glyphBounds": "{{0, 1}, {45, 9}}",
+  "glyphBounds": "{{1, 2}, {237, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,39 +63,39 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "EXPLORE",
+  "name": "Pemilihan Ketua Himp",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "05174E5F-91A3-44CD-93AE-C7D1245497A3",
+    "do_objectID": "6F60BAD5-2B76-4C05-83C6-5AB19EF93FB7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "44553D86-63AD-4C55-AD81-FC6DBEAF1FF6",
+      "do_objectID": "B200E2D7-4D1B-4841-A6E2-A5EEE9A9706F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1803921568627451,
-          "green": 0.6078431372549019,
-          "red": 0.9921568627450981
+          "blue": 0.3058823529,
+          "green": 0.3058823529,
+          "red": 0.3058823529
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Medium",
-            "size": 10
+            "name": "Rubik-Regular",
+            "size": 14
           }
         },
-        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         }
       },
@@ -103,5 +103,17 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "travel",
+          "type": "title"
+        },
+        "title": "Travel"
+      }
+    }
+  }
 }

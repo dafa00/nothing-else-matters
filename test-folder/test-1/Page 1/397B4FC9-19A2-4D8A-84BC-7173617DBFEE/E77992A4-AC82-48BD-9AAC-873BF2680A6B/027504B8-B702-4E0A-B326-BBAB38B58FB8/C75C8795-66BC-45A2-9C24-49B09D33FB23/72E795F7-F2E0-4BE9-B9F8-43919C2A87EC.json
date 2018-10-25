@@ -9,36 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1803921568627451,
-            "green": 0.6078431372549019,
-            "red": 0.9921568627450981
+            "blue": 0.3067602041,
+            "green": 0.3067602041,
+            "red": 0.3067602041
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Medium",
-              "size": 10
+              "size": 16
             }
           },
-          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "EXPLORE"
+    "string": "The Kop UBS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "9493E95D-4F5D-4AB9-8C8A-5B2955902682",
+  "do_objectID": "72E795F7-F2E0-4BE9-B9F8-43919C2A87EC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7CED19F8-19D6-485E-B25D-B5B7DB0E6112",
+    "do_objectID": "8713226D-8E8D-4253-AFC0-DB48C1AD4EAD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3B215C05-B4B1-4B24-AF23-50C893DD5142",
-    "height": 12,
-    "width": 46,
-    "x": 22,
-    "y": 3
+    "do_objectID": "C0539F7B-FD34-40A8-893A-DD33A5F7BF98",
+    "height": 19,
+    "width": 174.2966062641673,
+    "x": 56.99999999999999,
+    "y": 0
   },
-  "glyphBounds": "{{0, 1}, {45, 9}}",
+  "glyphBounds": "{{0, 3}, {98, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "EXPLORE",
+  "name": "The Kop UBS",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,31 +71,31 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "05174E5F-91A3-44CD-93AE-C7D1245497A3",
+    "do_objectID": "DD7A618D-ED11-4AAA-872A-E940F4E98307",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "44553D86-63AD-4C55-AD81-FC6DBEAF1FF6",
+      "do_objectID": "87247B8B-F62D-482B-A70A-0F0B4AD07F14",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1803921568627451,
-          "green": 0.6078431372549019,
-          "red": 0.9921568627450981
+          "blue": 0.3067602041,
+          "green": 0.3067602041,
+          "red": 0.3067602041
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Medium",
-            "size": 10
+            "size": 16
           }
         },
-        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         }
       },
@@ -103,5 +103,16 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "name",
+        "options": {
+          "gender": "male"
+        },
+        "title": "Male"
+      }
+    }
+  }
 }
