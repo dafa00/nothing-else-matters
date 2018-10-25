@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "83F26810-F60C-4E8B-844B-1FA608A3D8EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DBCCE0F-BDCF-4435-B645-027BEF9F16F6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39C288CD-D8FB-46FA-B73B-23158E467ED7",
+    "height": 24,
+    "width": 24,
+    "x": 48,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "39CCD82C-B2D9-43CF-96DD-E646757BC33D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37AFD4AD-A8DF-496D-A907-43B7C30D2E80"
+    }
+  ],
+  "name": "ic_inbox_solid_24dp_orange",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25DDF4DD-F226-4670-8DAD-AD10147CB9AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

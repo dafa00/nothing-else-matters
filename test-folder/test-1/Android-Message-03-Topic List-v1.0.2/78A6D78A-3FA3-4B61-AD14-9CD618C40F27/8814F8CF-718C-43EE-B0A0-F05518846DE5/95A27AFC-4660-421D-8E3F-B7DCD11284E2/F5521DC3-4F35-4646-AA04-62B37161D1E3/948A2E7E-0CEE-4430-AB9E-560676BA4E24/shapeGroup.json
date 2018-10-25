@@ -1,0 +1,85 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "948A2E7E-0CEE-4430-AB9E-560676BA4E24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "408BF786-CB9B-44B9-A392-A25D87722524",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F2D7ADA9-3126-4562-AE36-02953630B59B",
+    "height": 44,
+    "width": 44,
+    "x": 0,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "B7D35596-76A6-4A33-B02C-377B42AFEB05"
+    }
+  ],
+  "name": "Account",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83B5A756-A8BF-4AB3-931C-60998915A8C9",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9192103878516986,
+          "green": 0.9428146258503401,
+          "red": 0.8586852352111141
+        },
+        "fillType": 0,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/f77a9a57fc348fcca14dd220a33956ab417e59fd.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Portrait",
+        "mode": "unsplash"
+      }
+    }
+  },
+  "windingRule": 1
+}

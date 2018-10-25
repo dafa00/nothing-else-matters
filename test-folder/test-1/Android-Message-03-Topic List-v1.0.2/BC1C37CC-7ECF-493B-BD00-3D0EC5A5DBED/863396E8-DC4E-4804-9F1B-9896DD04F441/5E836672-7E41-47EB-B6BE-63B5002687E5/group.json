@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5E836672-7E41-47EB-B6BE-63B5002687E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F51A138A-7C3F-4525-8441-0DDEA670375A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4049F55F-6DAB-4632-A892-A7F43ABB4FE7",
+    "height": 76,
+    "width": 362,
+    "x": 0,
+    "y": 152
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EE19582A-DCB3-4E8D-80DE-CCF50E624C22"
+    },
+    {
+      "class": "group",
+      "id": "69DEDDA2-C382-42AE-AE20-3107558C0DD1"
+    }
+  ],
+  "name": "Mail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D107D02-E557-47B8-BFB6-1E7321678739",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

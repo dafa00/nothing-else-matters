@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "D81174D3-0735-44B4-A108-E6FA35016943",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA258B81-6939-4DE3-A1D3-ACCC72F705C8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8CDCD41-E063-492F-BA1B-6E7281526A96",
+    "height": 34.78915662650604,
+    "width": 25.34638554216869,
+    "x": 12.62680722891567,
+    "y": 13.86927710843373
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "85CC8E95-96A1-4AD3-81B7-ADEE157D4E0B"
+    }
+  ],
+  "name": "ic_people copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AAF8AEA5-330E-42F7-8529-137E6E4C2017",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.75,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "73E78469-D929-4338-9FC7-59B930F6EE28",
+      "opacity": 0.7000000000000001
+    },
+    "do_objectID": "4AC89815-68A7-4B01-AF84-A30B5C6F2566",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

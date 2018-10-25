@@ -1,0 +1,104 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8249B6C-08EE-4AA0-AFC4-8E73299C057E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62B5336A-6813-4401-B1CC-D9608B64B93A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7625B53B-BAB5-4683-8D2A-F146C0B485C4",
+    "height": 44,
+    "width": 44,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "09356AC9-30EC-487B-BDF8-7422A7377D90"
+    }
+  ],
+  "name": "Oval 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8392156862745098,
+          "green": 0.8,
+          "red": 0.792156862745098
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 6
+      }
+    ],
+    "do_objectID": "C50FCCB5-162A-45F5-9508-DEAB520B3220",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6039215686274509,
+          "green": 0.792156862745098,
+          "red": 0.2156862745098039
+        },
+        "fillType": 0,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/7c83913c0805a1b60119a222d69ae6fadc7289a2.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Portrait",
+        "icon": "smile",
+        "index": 4,
+        "mode": "unsplash",
+        "title": "People"
+      }
+    }
+  },
+  "windingRule": 1
+}

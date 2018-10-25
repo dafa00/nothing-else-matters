@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "ACC7888D-F2F1-436C-AECD-995F170D90DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DA17195-317A-4FBA-976A-7A31650E40FD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AFFE5EA0-9F6C-482B-9ADF-4C572524DC04",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F8367F2F-E9AE-4E37-889F-36AC34B05E51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "18F27BFA-6DC7-4AA9-B84F-C29655A35B10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8B84A65-D527-4A1B-854D-5F1332831258"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2BC5FF06-2513-4DF6-8E85-9EEF3186D6AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8B719C2-B410-483C-90D6-43242DDCE2ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "695D30AB-5C84-486F-8658-BEADC195C07E"
+    }
+  ],
+  "name": "ic_bell_16dp_grey copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9FECB7AE-CBC1-48DC-9F07-D56418EE592E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666666,
+      "type": 0
+    },
+    "do_objectID": "15E419B0-B42E-4B2C-9F8D-29696A25BEB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

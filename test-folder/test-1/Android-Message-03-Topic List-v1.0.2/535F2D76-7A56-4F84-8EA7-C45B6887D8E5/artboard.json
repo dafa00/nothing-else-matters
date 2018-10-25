@@ -1,0 +1,140 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "005D6BD4-D320-4A1B-BAE1-1B8ACDC8D345",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "booleanOperation": 0,
+  "do_objectID": "535F2D76-7A56-4F84-8EA7-C45B6887D8E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89BC4DAE-B28B-4BFD-B741-0CF9A4315DCA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9CC3D08-4E8D-4156-8BC5-1B91E8075E3F",
+    "height": 1107,
+    "width": 2510,
+    "x": -723,
+    "y": -31
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "70F1D0E8-0D7B-46E7-AE87-B12305110715",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "03F5195C-3379-4F85-B886-DC757CA42D69"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "277F328F-416B-4E47-B6F1-AC5DA64B1C61"
+    },
+    {
+      "class": "text",
+      "id": "4D8267FE-6B22-436F-A447-3A327C7578A5"
+    },
+    {
+      "class": "text",
+      "id": "04A9FF31-3B91-45BC-8588-F226DDF1B553"
+    },
+    {
+      "class": "text",
+      "id": "C48A2CD5-0376-4956-9543-201C8C87F449"
+    },
+    {
+      "class": "text",
+      "id": "2936FE62-792E-4ACA-871F-CF75CE917EDE"
+    },
+    {
+      "class": "text",
+      "id": "58868CF8-2055-4711-B6E7-DEC25A1D337E"
+    },
+    {
+      "class": "text",
+      "id": "D56352C3-C70C-4BA6-A8F8-234AE22CD90D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FFB326D-B525-4E9D-94C1-8062AD4C270D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B054816E-A5D5-4C26-8CFD-B613B5EE1213"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EEB41E73-DD49-4BB7-BEB1-219663012C24"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "107B5D75-417F-4BDA-9BDF-9334C5F40D07"
+    }
+  ],
+  "name": "Android - Inbox & Group topic list - v1.0.2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67946FA6-FB26-49D1-9B48-CAFE375F7C8C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D3899E9-C0C0-434D-8CA3-D79E96C42858",
+    "guides": [
+    ]
+  }
+}

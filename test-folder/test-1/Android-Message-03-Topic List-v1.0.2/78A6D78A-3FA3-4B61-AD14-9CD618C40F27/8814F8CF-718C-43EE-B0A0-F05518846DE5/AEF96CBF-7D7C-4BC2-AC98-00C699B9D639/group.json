@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "AEF96CBF-7D7C-4BC2-AC98-00C699B9D639",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F0CF5F9-BACA-487D-ADCC-9C5FD862E001",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "288405D8-BAE0-4457-8629-30C90F028812",
+    "height": 86,
+    "width": 360,
+    "x": 0,
+    "y": 259
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4F93A8F3-7F88-4B07-85EB-ACD2E7DE2C27"
+    },
+    {
+      "class": "group",
+      "id": "EE61DB4C-060C-4C6F-9F72-F5BA3BB02506"
+    }
+  ],
+  "name": "Mail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B7E4E18-7436-4430-92D5-BF2EC62CFB1A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

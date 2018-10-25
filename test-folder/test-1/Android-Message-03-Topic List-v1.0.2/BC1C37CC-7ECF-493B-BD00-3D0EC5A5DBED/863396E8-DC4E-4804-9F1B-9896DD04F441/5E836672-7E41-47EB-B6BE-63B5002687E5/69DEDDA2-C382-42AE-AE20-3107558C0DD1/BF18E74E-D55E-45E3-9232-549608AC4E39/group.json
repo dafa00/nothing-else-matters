@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "BF18E74E-D55E-45E3-9232-549608AC4E39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70DBD82B-9DAB-4FC5-A364-290620BEBF11",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1ACD0BC7-7C28-4437-9FD9-A34DF6FDC588",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "887797D0-C94D-411C-ABAB-4D747BBD6A4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0E2590C-278C-42F0-9072-301585E2B015"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16A8FC76-933D-4F07-9E52-CE98659AB2AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7EBAED5B-C686-4301-9C3A-784B2BF3F1B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BE866F4-5ECB-447D-90F8-06FD20C0756F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B049ACA1-E76A-4EA2-9356-2B3DC7A70571"
+    }
+  ],
+  "name": "ic_bell_16dp_grey copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "695D159F-5749-4E02-94FF-95EB6E462F61",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666666,
+      "type": 0
+    },
+    "do_objectID": "70AA28AA-F263-4E52-9073-637F1AD1B1F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

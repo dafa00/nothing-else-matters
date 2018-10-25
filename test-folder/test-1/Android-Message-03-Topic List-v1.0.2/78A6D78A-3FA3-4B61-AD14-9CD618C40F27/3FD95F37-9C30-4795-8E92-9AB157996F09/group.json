@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3FD95F37-9C30-4795-8E92-9AB157996F09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "151F1527-DD13-4F43-AB19-14B92834E267",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAD7104E-7A14-4CAF-8CE2-B0C657308C32",
+    "height": 50,
+    "width": 360,
+    "x": 0,
+    "y": 590
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A733E1A8-0D53-43B4-8568-E6037D5C3970"
+    },
+    {
+      "class": "group",
+      "id": "20198E0F-F5B3-4D71-8ACC-96AF42B176B9"
+    },
+    {
+      "class": "group",
+      "id": "261918FA-D8E1-4765-AD61-B22621F8CE35"
+    },
+    {
+      "class": "group",
+      "id": "F2F9F590-F91C-4B14-9109-34FE60373539"
+    }
+  ],
+  "name": "Bottombar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68BB88BD-FC1B-4F81-B85E-226C8C361701",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

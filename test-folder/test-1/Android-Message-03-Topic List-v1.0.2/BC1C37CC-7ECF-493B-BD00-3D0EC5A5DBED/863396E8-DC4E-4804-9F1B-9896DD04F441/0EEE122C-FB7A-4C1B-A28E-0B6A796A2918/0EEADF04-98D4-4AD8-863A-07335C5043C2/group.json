@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "0EEADF04-98D4-4AD8-863A-07335C5043C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "119B521A-43CC-4AD6-9DF4-DBD98841D7A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B811CC64-0C68-46A7-9D8B-AFFC440A97A0",
+    "height": 47,
+    "width": 331,
+    "x": 17,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E8C09DF7-9DD1-4BE9-9E17-D688ACC790CD"
+    },
+    {
+      "class": "text",
+      "id": "DC76F431-2D77-4271-87AF-78E5FD98AAC6"
+    },
+    {
+      "class": "group",
+      "id": "2781B7F7-7627-4AB1-B0B0-A6256C5E2467"
+    },
+    {
+      "class": "text",
+      "id": "E583357A-3404-4FB7-AC30-DF079F65CEF5"
+    }
+  ],
+  "name": "mail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CAAE7AB1-0AAC-4178-905E-6ED9400B6ABB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

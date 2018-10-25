@@ -1,0 +1,81 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "58ec8140-d809-11e8-94f5-71cd52c9de59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "535F2D76-7A56-4F84-8EA7-C45B6887D8E5"
+    },
+    {
+      "class": "artboard",
+      "id": "BC1C37CC-7ECF-493B-BD00-3D0EC5A5DBED"
+    },
+    {
+      "class": "artboard",
+      "id": "94DC1583-6684-420A-9B7E-74BFB0936CC0"
+    },
+    {
+      "class": "artboard",
+      "id": "78A6D78A-3FA3-4B61-AD14-9CD618C40F27"
+    },
+    {
+      "class": "artboard",
+      "id": "BE36CCC8-B5B5-4A0F-9CE8-319F4BDA2E67"
+    },
+    {
+      "class": "artboard",
+      "id": "A7887677-31C7-4AA8-8652-0835B09BDE7C"
+    }
+  ],
+  "name": "Android-Message-03-Topic List-v1.0.2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
