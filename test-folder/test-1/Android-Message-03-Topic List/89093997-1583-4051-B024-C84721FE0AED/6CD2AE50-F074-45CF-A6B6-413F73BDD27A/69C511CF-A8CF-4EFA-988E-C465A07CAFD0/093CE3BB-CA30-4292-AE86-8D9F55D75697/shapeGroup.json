@@ -1,0 +1,129 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "093CE3BB-CA30-4292-AE86-8D9F55D75697",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 7.200000000000003,
+    "width": 43.46999999999999,
+    "x": 38.85,
+    "y": 34.9
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "247D4A2F-A094-4720-9379-00895A61223B"
+    },
+    {
+      "class": "shapePath",
+      "id": "2C553559-3E82-42C2-857F-064388387637"
+    },
+    {
+      "class": "shapePath",
+      "id": "F14B0791-7F0E-479C-990B-3CA752493724"
+    },
+    {
+      "class": "shapePath",
+      "id": "96D01B4F-D0F9-4B7F-81CE-E0AB0C9D5C44"
+    },
+    {
+      "class": "shapePath",
+      "id": "453D0EE1-D22F-4E0E-8EF3-59439C616315"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD5B1DF6-010A-4878-9969-AAB6D950A3CE"
+    },
+    {
+      "class": "shapePath",
+      "id": "522999E2-3BF3-472E-A53D-3761B6BF4007"
+    },
+    {
+      "class": "shapePath",
+      "id": "7952DEAD-BED7-49C8-AA49-3D3D492F0386"
+    },
+    {
+      "class": "shapePath",
+      "id": "A83A8702-DBE8-4BFF-A046-65E0A841F03C"
+    },
+    {
+      "class": "shapePath",
+      "id": "617A3E7B-5261-450F-A278-3270CBF940C5"
+    }
+  ],
+  "name": "Contacts",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Rubik-Medium",
+            "size": 10
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
